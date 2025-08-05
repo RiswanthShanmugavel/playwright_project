@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1","@web testcase01 IPHONE 13 PRO","chromium","Wed Jul 23 00:25:50 IST 2025","skipped","Wed Jul 23 00:25:50 IST 2025","","project1.spec.js","",""
+"","13386","@smoke testcase01","chromium","Wed Jul 23 00:25:51 IST 2025","passed","Wed Jul 23 00:26:05 IST 2025","","project1.spec.js","",""
+"","4","@web testcase01 ADIDAS ORIGINAL","chromium","Wed Jul 23 00:25:50 IST 2025","skipped","Wed Jul 23 00:25:50 IST 2025","","project1.spec.js","",""
