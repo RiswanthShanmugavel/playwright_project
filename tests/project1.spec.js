@@ -6,7 +6,7 @@ import { json } from 'stream/consumers';
 const Datasheet=JSON.parse(JSON.stringify(require("../testdata/datasheet.json")))
  
 for(const data of Datasheet){
-test.skip(` @web testcase01 ${data.productname}`,async({page})=>{
+test(` @web testcase01 ${data.productname}`,async({page})=>{
    
  
     const pomanager= new POmanager(page)
